@@ -23,7 +23,7 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 + This is the second item
 + This is the third item
   + This should be a sub-item
- 
+
 ___
 
  1. this is the first item
