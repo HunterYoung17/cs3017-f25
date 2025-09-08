@@ -10,7 +10,7 @@ I also enjoy spending time with my family and girlfriend.
 - Family
 - League Management
 
-[![Baseball](/assets/images/baseball.jpg)]
+![Baseball](/assets/images/baseball.jpg)
 
 
 ## My Favorite Foods
