@@ -10,7 +10,7 @@ I also enjoy spending time with my family and girlfriend.
 - Family
 - League Management
 
-[![Baseball](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://unsplash.com/photos/a-bunch-of-baseballs-that-are-white-and-red-2A6FVXOiJ1w)
+[![Baseball](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbaseball&psig=AOvVaw2KB94GPLSiuAo_uFI3_v13&ust=1757429925233000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjbp-W2yY8DFQAAAAAdAAAAABAE)
 
 
 
